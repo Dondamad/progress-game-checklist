@@ -1,0 +1,2165 @@
+{
+  "wikiUrl": "https://mytimeatsandrock.fandom.com/",
+  "items": [
+    {
+      "name": "Rescue Team Pants",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/d/d3/Rescue_Team_Pants.png",
+      "size": "Medium",
+      "rep_reward": 20,
+      "type": "Clothing",
+      "url": "Rescue_Team_Pants"
+    },
+    {
+      "name": "Dancer's Pants",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/5/52/Dancer%27s_Pants.png",
+      "size": "Small",
+      "rep_reward": 12,
+      "type": "Clothing",
+      "url": "⁠Dancer's_Pants"
+    },
+    {
+      "name": "Casual Shorts",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/6/68/Casual_Shorts.png",
+      "size": "Small",
+      "rep_reward": 8,
+      "type": "Clothing",
+      "url": "Casual_Shorts"
+    },
+    {
+      "name": "Sandrunning Bottoms",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/7/7b/Sandrunning_Bottoms.png",
+      "size": "Small",
+      "rep_reward": 12,
+      "type": "Clothing",
+      "url": "Sandrunning_Bottoms"
+    },
+    {
+      "name": "Desert Defender Pants",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/6/68/Desert_Defender_Pants.png",
+      "size": "Small",
+      "rep_reward": 12,
+      "type": "Clothing",
+      "url": "Desert_Defender_Pants"
+    },
+    {
+      "name": "Creepy Pumpkin Bottoms",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/e/ef/Creepy_Pumpkin_Bottoms_%28Lucy%29.png",
+      "size": "Small",
+      "rep_reward": 20,
+      "type": "Clothing",
+      "url": "Creepy_Pumpkin_Bottoms"
+    },
+    {
+      "name": "Explorer Pants",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/9/99/Explorer_Pants.png",
+      "size": "Medium",
+      "rep_reward": 20,
+      "type": "Clothing",
+      "url": "Explorer_Pants"
+    },
+    {
+      "name": "Magic Adventurer Bottoms",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/e/ec/Magic_Adventurer_Bottoms.png",
+      "size": "Medium",
+      "rep_reward": 28,
+      "type": "Clothing",
+      "url": "Magic_Adventurer_Bottoms"
+    },
+    {
+      "name": "Suit of Memories (Bottom)",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/c/c7/Suit_of_Memories_%28Bottom%29_%28Max%29.png",
+      "size": "Small",
+      "rep_reward": 20,
+      "type": "Clothing",
+      "url": "Suit_of_Memories_(Bottom)"
+    },
+    {
+      "name": "Desert Warrior Pants",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/7/70/Desert_Warrior_Pants.png",
+      "size": "Medium",
+      "rep_reward": 20,
+      "type": "Clothing",
+      "url": "Desert_Warrior_Pants"
+    },
+    {
+      "name": "Basic Sandfish Trap",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/f/f7/Basic_Sandfish_Trap.png",
+      "size": "Medium",
+      "rep_reward": 8,
+      "type": "Tool",
+      "url": "Basic_Sandfish_Trap"
+    },
+    {
+      "name": "Bronze Sword and Shield",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/3/33/Bronze_Sword_and_Shield.png",
+      "size": "Medium",
+      "rep_reward": 16,
+      "type": "Weapon",
+      "url": "Bronze_Sword_and_Shield"
+    },
+    {
+      "name": "Stone Daggers",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/0/00/Stone_Daggers.png",
+      "size": "Medium",
+      "rep_reward": 4,
+      "type": "Weapon",
+      "url": "Stone_Daggers"
+    },
+    {
+      "name": "Yakmel Horn Comb",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/4/40/Yakmel_Horn_Comb.png",
+      "size": "Small",
+      "rep_reward": 4,
+      "type": "Accessory",
+      "url": "Yakmel_Horn_Comb"
+    },
+    {
+      "name": "Yakmel Horn Bracelet",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/1/16/Yakmel_Horn_Bracelet.png",
+      "size": "Small",
+      "rep_reward": 8,
+      "type": "Accessory",
+      "url": "Yakmel_Horn_Bracelet"
+    },
+    {
+      "name": "Hat of Memories",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/1/17/Hat_of_Memories.png",
+      "size": "Small",
+      "rep_reward": 16,
+      "type": "Clothing",
+      "url": "Hat_of_Memories"
+    },
+    {
+      "name": "Magic Adventurer Goggles",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/8/85/Magic_Adventurer_Goggles.png",
+      "size": "Small",
+      "rep_reward": 20,
+      "type": "Clothing",
+      "url": "Magic_Adventurer_Goggles"
+    },
+    {
+      "name": "Miner's Hat",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/6/65/Miner%27s_Hat.png",
+      "size": "Small",
+      "rep_reward": 12,
+      "type": "Clothing",
+      "url": "Miner's_Hat"
+    },
+    {
+      "name": "Sandgear",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/2/29/Sandgear.png",
+      "size": "Small",
+      "rep_reward": 12,
+      "type": "Clothing",
+      "url": "Sandgear"
+    },
+    {
+      "name": "Vacuum Cleaner",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/f/f6/Vacuum_Cleaner.png",
+      "size": "Medium",
+      "rep_reward": 28,
+      "type": "Assembled item",
+      "url": "Vacuum_Cleaner"
+    },
+    {
+      "name": "Explorer Hat",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/e/e2/Explorer_Hat.png",
+      "size": "Small",
+      "rep_reward": 16,
+      "type": "Clothing",
+      "url": "Explorer_Hat"
+    },
+    {
+      "name": "Sand Hat",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/a/a8/Sand_Hat.png",
+      "size": "Small",
+      "rep_reward": 12,
+      "type": "Clothing",
+      "url": "Sand_Hat"
+    },
+    {
+      "name": "Rescue Team Hat",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/3/31/Rescue_Team_Hat.png",
+      "size": "Small",
+      "rep_reward": 20,
+      "type": "Clothing",
+      "url": "Rescue_Team_Hat"
+    },
+    {
+      "name": "Desert Warrior Visor",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/b/b7/Desert_Warrior_Visor.png",
+      "size": "Small",
+      "rep_reward": 16,
+      "type": "Accessory",
+      "url": "Desert_Warrior_Visor"
+    },
+    {
+      "name": "Dancer's Headband",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/c/c1/Dancer%27s_Headband.png",
+      "size": "Small",
+      "rep_reward": 12,
+      "type": "Clothing",
+      "url": "Dancer's_Headband"
+    },
+    {
+      "name": "Suit of Memories (Top)",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/f/fd/Suit_of_Memories_%28Top%29.png",
+      "size": "Medium",
+      "rep_reward": 20,
+      "type": "Clothing",
+      "url": "Suit_of_Memories_(Top)"
+    },
+    {
+      "name": "Desert Warrior Shirt",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/6/65/Desert_Warrior_Shirt.png",
+      "size": "Medium",
+      "rep_reward": 20,
+      "type": "Clothing",
+      "url": "Desert_Warrior_Shirt"
+    },
+    {
+      "name": "Rescue Team Jacket",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/c/c4/Rescue_Team_Jacket.png",
+      "size": "Medium",
+      "rep_reward": 20,
+      "type": "Clothing",
+      "url": "Rescue_Team_Jacket"
+    },
+    {
+      "name": "Casual T-shirt",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/2/2a/Casual_T-shirt.png",
+      "size": "Small",
+      "rep_reward": 8,
+      "type": "Clothing",
+      "url": "Casual_T-shirt"
+    },
+    {
+      "name": "Dancer's Jacket",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/7/78/Dancer%27s_Jacket.png",
+      "size": "Medium",
+      "rep_reward": 12,
+      "type": "Clothing",
+      "url": "Dancer's_Jacket"
+    },
+    {
+      "name": "Desert Defender Shirt",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/c/ca/Desert_Defender_Shirt.png",
+      "size": "Small",
+      "rep_reward": 12,
+      "type": "Clothing",
+      "url": "Desert_Defender_Shirt"
+    },
+    {
+      "name": "Explorer Vest",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/d/d6/Explorer_Vest.png",
+      "size": "Medium",
+      "rep_reward": 20,
+      "type": "Clothing",
+      "url": "Explorer_Vest"
+    },
+    {
+      "name": "Creepy Pumpkin Jacket",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/8/8e/Creepy_Pumpkin_Jacket.png",
+      "size": "Medium",
+      "rep_reward": 20,
+      "type": "Clothing",
+      "url": "Creepy_Pumpkin_Jacket"
+    },
+    {
+      "name": "Sandrunning Shirt",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/d/d9/Sandrunning_Shirt.png",
+      "size": "Medium",
+      "rep_reward": 12,
+      "type": "Clothing",
+      "url": "Sandrunning_Shirt"
+    },
+    {
+      "name": "Magic Adventurer Shirt",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/d/d8/Magic_Adventurer_Shirt.png",
+      "size": "Medium",
+      "rep_reward": 28,
+      "type": "Clothing",
+      "url": "Magic_Adventurer_Shirt"
+    },
+    {
+      "name": "Backer's T-shirt",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/b/b0/Backer%27s_T-shirt.png",
+      "size": "Small",
+      "rep_reward": 8,
+      "type": "Clothing",
+      "url": "Backer's_T-shirt"
+    },
+    {
+      "name": "Deputy Cap",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/c/c7/Deputy_Cap.png",
+      "size": "Small",
+      "rep_reward": 12,
+      "type": "Mission item",
+      "url": "Deputy_Cap"
+    },
+    {
+      "name": "Froggy Explorer Hat",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/9/99/Froggy_Explorer_Hat.png",
+      "size": "Small",
+      "rep_reward": 16,
+      "type": "Clothing",
+      "url": "Froggy_Explorer_Hat"
+    },
+    {
+      "name": "Sandrunning Hat",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/3/39/Sandrunning_Hat.png",
+      "size": "Small",
+      "rep_reward": 12,
+      "type": "Clothing",
+      "url": "Sandrunning_Hat"
+    },
+    {
+      "name": "Froggy Explorer Boots",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/d/d1/Froggy_Explorer_Boots.png",
+      "size": "Small",
+      "rep_reward": 16,
+      "type": "Clothing",
+      "url": "Froggy_Explorer_Boots"
+    },
+    {
+      "name": "Desert Defender Goggles",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/2/27/Desert_Defender_Goggles.png",
+      "size": "Small",
+      "rep_reward": 12,
+      "type": "Clothing",
+      "url": "Desert_Defender_Goggles"
+    },
+    {
+      "name": "Feather Duster",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/0/0e/Feather_Duster.png",
+      "size": "Medium",
+      "rep_reward": 4,
+      "type": "Tool",
+      "url": "Feather_Duster"
+    },
+    {
+      "name": "Casual Wristband",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/7/79/Casual_Wristband.png",
+      "size": "Small",
+      "rep_reward": 4,
+      "type": "Clothing",
+      "url": "Casual_Wristband"
+    },
+    {
+      "name": "Desert Defender Waist Bag",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/1/16/Desert_Defender_Waist_Bag.png",
+      "size": "Small",
+      "rep_reward": 8,
+      "type": "Accessory",
+      "url": "Desert_Defender_Waist_Bag"
+    },
+    {
+      "name": "Explorer Boots",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/e/eb/Explorer_Boots.png",
+      "size": "Small",
+      "rep_reward": 16,
+      "type": "Clothing",
+      "url": "Explorer_Boots"
+    },
+    {
+      "name": "Casual Hat",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/2/2e/Casual_Hat.png",
+      "size": "Small",
+      "rep_reward": 8,
+      "type": "Clothing",
+      "url": "Casual_Hat"
+    },
+    {
+      "name": "Rescue Team Boots",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/d/d2/Rescue_Team_Boots.png",
+      "size": "Small",
+      "rep_reward": 20,
+      "type": "Clothing",
+      "url": "Rescue_Team_Boots"
+    },
+    {
+      "name": "Froggy Explorer Vest",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/5/52/Froggy_Explorer_Vest.png",
+      "size": "Medium",
+      "rep_reward": 20,
+      "type": "Clothing",
+      "url": "Froggy_Explorer_Vest"
+    },
+    {
+      "name": "Dancer's Shoes",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/c/cc/Dancer%27s_Shoes.png",
+      "size": "Small",
+      "rep_reward": 12,
+      "type": "Clothing",
+      "url": "Dancer's_Shoes"
+    },
+    {
+      "name": "Sandrunning Boots",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/1/16/Sandrunning_Boots.png",
+      "size": "Small",
+      "rep_reward": 12,
+      "type": "Clothing",
+      "url": "Sandrunning_Boots"
+    },
+    {
+      "name": "Casual Shoes",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/8/88/Casual_Shoes.png",
+      "size": "Small",
+      "rep_reward": 4,
+      "type": "Clothing",
+      "url": "Casual_Shoes"
+    },
+    {
+      "name": "Desert Defender Boots",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/5/53/Desert_Defender_Boots.png",
+      "size": "Small",
+      "rep_reward": 12,
+      "type": "Clothing",
+      "url": "Desert_Defender_Boots"
+    },
+    {
+      "name": "Magic Adventurer Boots",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/7/75/Magic_Adventurer_Boots.png",
+      "size": "Small",
+      "rep_reward": 20,
+      "type": "Clothing",
+      "url": "Magic_Adventurer_Boots"
+    },
+    {
+      "name": "Shoes of Memories",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/b/b5/Shoes_of_Memories.png",
+      "size": "Small",
+      "rep_reward": 16,
+      "type": "Clothing",
+      "url": "Shoes_of_Memories"
+    },
+    {
+      "name": "Froggy Explorer Pants",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/b/b7/Froggy_Explorer_Pants.png",
+      "size": "Medium",
+      "rep_reward": 20,
+      "type": "Clothing",
+      "url": "Froggy_Explorer_Pants"
+    },
+    {
+      "name": "Desert Warrior Boots",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/e/ea/Desert_Warrior_Boots.png",
+      "size": "Small",
+      "rep_reward": 20,
+      "type": "Clothing",
+      "url": "Desert_Warrior_Boots"
+    },
+    {
+      "name": "Ozdak Sun Worship Statue",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/d/db/Ozdak_Sun_Worship_Statue.png",
+      "size": "Medium",
+      "rep_reward": 15,
+      "type": "Furniture & decorations",
+      "url": "Ozdak_Sun_Worship_Statue"
+    },
+    {
+      "name": "Fairy Fox Mask",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/8/8e/Fairy_Fox_Mask.png",
+      "size": "Medium",
+      "rep_reward": 10,
+      "type": "Furniture & decorations",
+      "url": "Fairy_Fox_Mask"
+    },
+    {
+      "name": "Grand Theater",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/6/67/Grand_Theater.png",
+      "size": "Large",
+      "rep_reward": 20,
+      "type": "Furniture & decorations",
+      "url": "Grand_Theater"
+    },
+    {
+      "name": "Buckyball",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/6/69/Buckyball.png",
+      "size": "Medium",
+      "rep_reward": 10,
+      "type": "Furniture & decorations",
+      "url": "Buckyball"
+    },
+    {
+      "name": "Spaceship Model",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/1/1e/Spaceship_Model.png",
+      "size": "Medium",
+      "rep_reward": 15,
+      "type": "Furniture & decorations",
+      "url": "Spaceship_Model"
+    },
+    {
+      "name": "Rusty Robot",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/8/85/Rusty_Robot.png",
+      "size": "Large",
+      "rep_reward": 25,
+      "type": "Furniture & decorations",
+      "url": "Rusty_Robot"
+    },
+    {
+      "name": "Sundial",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/1/15/Sundial.png",
+      "size": "Medium",
+      "rep_reward": 15,
+      "type": "Furniture & decorations",
+      "url": "Sundial"
+    },
+    {
+      "name": "Spacesuit",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/3/32/Spacesuit.png",
+      "size": "Medium",
+      "rep_reward": 15,
+      "type": "Furniture & decorations",
+      "url": "Spacesuit"
+    },
+    {
+      "name": "Simple Wooden Chair",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/d/dc/Simple_Wooden_Chair.png",
+      "size": "Medium",
+      "rep_reward": 12,
+      "type": "Furniture & decorations",
+      "url": "Simple_Wooden_Chair"
+    },
+    {
+      "name": "Wooden Storage",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/8/8e/Wooden_Storage.png",
+      "size": "Medium",
+      "rep_reward": 8,
+      "type": "Furniture & decorations",
+      "url": "Wooden_Storage"
+    },
+    {
+      "name": "Basic Cushion Chair",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/0/07/Basic_Cushion_Chair.png",
+      "size": "Medium",
+      "rep_reward": 12,
+      "type": "Furniture & decorations",
+      "url": "Basic_Cushion_Chair"
+    },
+    {
+      "name": "large Storage Box",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/1/1d/Large_Storage_Box.png",
+      "size": "Medium",
+      "rep_reward": 16,
+      "type": "Furniture & decorations",
+      "url": "Large_Storage_Box"
+    },
+    {
+      "name": "Jewelry Showcase",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/0/06/Jewelry_Showcase.png",
+      "size": "Medium",
+      "rep_reward": 20,
+      "type": "Furniture & decorations",
+      "url": "Jewelry_Showcase"
+    },
+    {
+      "name": "Simple Chair",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/9/92/Simple_Chair.png",
+      "size": "Medium",
+      "rep_reward": 8,
+      "type": "Furniture & decorations",
+      "url": "Simple_Chair"
+    },
+    {
+      "name": "Metal Single Bed",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/5/56/Metal_Single_Bed.png",
+      "size": "Medium",
+      "rep_reward": 16,
+      "type": "Furniture & decorations",
+      "url": "Metal_Single_Bed"
+    },
+    {
+      "name": "Cact-o'-Lantern",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/e/ef/Cact-o%27-Lantern.png",
+      "size": "Medium",
+      "rep_reward": 12,
+      "type": "Furniture & decorations",
+      "url": "Cact-o'-Lantern"
+    },
+    {
+      "name": "Boom Box",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/7/7a/Boom_Box.png",
+      "size": "Medium",
+      "rep_reward": 12,
+      "type": "Furniture & decorations",
+      "url": "Boom_Box"
+    },
+    {
+      "name": "Techno Phone",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/e/e2/Techno_Phone.png",
+      "size": "Small",
+      "rep_reward": 4,
+      "type": "Furniture & decorations",
+      "url": "Techno_Phone"
+    },
+    {
+      "name": "Gorgeous Painted Pottery",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/0/0c/Gorgeous_Painted_Pottery.png",
+      "size": "Medium",
+      "rep_reward": 8,
+      "type": "Furniture & decorations",
+      "url": "Gorgeous_Painted_Pottery"
+    },
+    {
+      "name": "Techno Calendar",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/4/44/Techno_Calendar.png",
+      "size": "Small",
+      "rep_reward": 4,
+      "type": "Furniture & decorations",
+      "url": "Techno_Calendar"
+    },
+    {
+      "name": "Exquisite Painted Pottery",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/0/0c/Exquisite_Painted_Pottery.png",
+      "size": "Medium",
+      "rep_reward": 12,
+      "type": "Furniture & decorations",
+      "url": "Exquisite_Painted_Pottery"
+    },
+    {
+      "name": "Fake Yakmel",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/a/ad/Fake_Yakmel.png",
+      "size": "Medium",
+      "rep_reward": 16,
+      "type": "Furniture & decorations",
+      "url": "Fake_Yakmel"
+    },
+    {
+      "name": "Techno Lamp",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/3/35/Techno_Lamp.png",
+      "size": "Small",
+      "rep_reward": 8,
+      "type": "Furniture & decorations",
+      "url": "Techno_Lamp"
+    },
+    {
+      "name": "Elegant Square Table",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/c/c8/Elegant_Square_Table.png",
+      "size": "Large",
+      "rep_reward": 12,
+      "type": "Furniture & decorations",
+      "url": "Elegant_Square_Table"
+    },
+    {
+      "name": "Techno Floppy Disk Box",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/4/49/Techno_Floppy_Disk_Box.png",
+      "size": "Small",
+      "rep_reward": 8,
+      "type": "Furniture & decorations",
+      "url": "Techno_Floppy_Disk_Box"
+    },
+    {
+      "name": "Elegant Bench",
+      "image": "",
+      "size": "Medium",
+      "rep_reward": 12,
+      "type": "Furniture & decorations",
+      "url": "Elegant_Bench"
+    },
+    {
+      "name": "Potted Plant",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/a/a1/Potted_Plant.png",
+      "size": "Medium",
+      "rep_reward": 4,
+      "type": "Furniture & decorations",
+      "url": "Potted_Plant"
+    },
+    {
+      "name": "Yakboy Bookshelf",
+      "image": "",
+      "size": "Large",
+      "rep_reward": 16,
+      "type": "Furniture & decorations",
+      "url": "Yakboy_Bookshelf"
+    },
+    {
+      "name": "Folder Holder",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/7/7f/Folder_Holder.png",
+      "size": "Small",
+      "rep_reward": 4,
+      "type": "Furniture & decorations",
+      "url": "Folder_Holder"
+    },
+    {
+      "name": "Yakboy small Square Stool",
+      "image": "",
+      "size": "Small",
+      "rep_reward": 12,
+      "type": "Furniture & decorations",
+      "url": "Yakboy_Small_Square_Stool"
+    },
+    {
+      "name": "Yakboy small Round Stool",
+      "image": "",
+      "size": "Small",
+      "rep_reward": 12,
+      "type": "Furniture & decorations",
+      "url": "Yakboy_Small_Round_Stool"
+    },
+    {
+      "name": "Techno Cup",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/0/02/Techno_Cup.png",
+      "size": "Small",
+      "rep_reward": 4,
+      "type": "Furniture & decorations",
+      "url": "Techno_Cup"
+    },
+    {
+      "name": "Yakboy Swing",
+      "image": "",
+      "size": "Medium",
+      "rep_reward": 24,
+      "type": "Furniture & decorations",
+      "url": "Yakboy_Swing"
+    },
+    {
+      "name": "Golden Eagle",
+      "image": "",
+      "size": "Medium",
+      "rep_reward": 25,
+      "type": "Furniture & decorations",
+      "url": "Golden_Eagle"
+    },
+    {
+      "name": "Plumed Painted Pottery",
+      "image": "",
+      "size": "Medium",
+      "rep_reward": 12,
+      "type": "Furniture & decorations",
+      "url": "Plumed_Painted_Pottery"
+    },
+    {
+      "name": "Clear Sky Painted Pottery",
+      "image": "",
+      "size": "Medium",
+      "rep_reward": 12,
+      "type": "Furniture & decorations",
+      "url": "Clear_Sky_Painted_Pottery"
+    },
+    {
+      "name": "Golden Builder Award Trophy",
+      "image": "",
+      "size": "Small",
+      "rep_reward": 24,
+      "type": "Furniture & decorations",
+      "url": "Golden_Builder_Award_Trophy"
+    },
+    {
+      "name": "Ship Wheel Model",
+      "image": "",
+      "size": "Medium",
+      "rep_reward": 15,
+      "type": "Furniture & decorations",
+      "url": "Ship_Wheel_Model"
+    },
+    {
+      "name": "Silver Builder Award Trophy",
+      "image": "",
+      "size": "Small",
+      "rep_reward": 20,
+      "type": "Furniture & decorations",
+      "url": "Silver_Builder_Award_Trophy"
+    },
+    {
+      "name": "Cact-o'-Lantern Scarecrow",
+      "image": "",
+      "size": "Medium",
+      "rep_reward": 12,
+      "type": "Furniture & decorations",
+      "url": "Cact-o'-Lantern_Scarecrow"
+    },
+    {
+      "name": "Bronze Builder Award Trophy",
+      "image": "",
+      "size": "Small",
+      "rep_reward": 16,
+      "type": "Furniture & decorations",
+      "url": "Bronze_Builder_Award_Trophy"
+    },
+    {
+      "name": "Rustic Tea Table",
+      "image": "",
+      "size": "Medium",
+      "rep_reward": 16,
+      "type": "Furniture & decorations",
+      "url": "Rustic_Tea_Table"
+    },
+    {
+      "name": "Cat-on-a-Cact-o'-Lantern",
+      "image": "",
+      "size": "Medium",
+      "rep_reward": 12,
+      "type": "Furniture & decorations",
+      "url": "Cat-on-a-Cact-o'-Lantern"
+    },
+    {
+      "name": "Elegant Painted Pottery",
+      "image": "",
+      "size": "Medium",
+      "rep_reward": 12,
+      "type": "Furniture & decorations",
+      "url": "Elegant_Painted_Pottery"
+    },
+    {
+      "name": "Rustic Chair",
+      "image": "",
+      "size": "Medium",
+      "rep_reward": 20,
+      "type": "Furniture & decorations",
+      "url": "Rustic_Chair"
+    },
+    {
+      "name": "Night Sky Painted Pottery",
+      "image": "",
+      "size": "Medium",
+      "rep_reward": 8,
+      "type": "Furniture & decorations",
+      "url": "Night_Sky_Painted_Pottery"
+    },
+    {
+      "name": "Office Chair",
+      "image": "",
+      "size": "Medium",
+      "rep_reward": 16,
+      "type": "Furniture & decorations",
+      "url": "Office_Chair"
+    },
+    {
+      "name": "Elegant Swing",
+      "image": "",
+      "size": "Large",
+      "rep_reward": 20,
+      "type": "Furniture & decorations",
+      "url": "Elegant_Swing"
+    },
+    {
+      "name": "Elegant Flower Box",
+      "image": "",
+      "size": "Large",
+      "rep_reward": 16,
+      "type": "Furniture & decorations",
+      "url": "Elegant_Flower_Box"
+    },
+    {
+      "name": "Elegant Sun Umbrella",
+      "image": "",
+      "size": "Large",
+      "rep_reward": 20,
+      "type": "Furniture & decorations",
+      "url": "Elegant_Sun_Umbrella"
+    },
+    {
+      "name": "Stone Trough",
+      "image": "",
+      "size": "Medium",
+      "rep_reward": 4,
+      "type": "Furniture & decorations",
+      "url": "Stone_Trough"
+    },
+    {
+      "name": "Rustic Wardrobe",
+      "image": "",
+      "size": "Medium",
+      "rep_reward": 16,
+      "type": "Furniture & decorations",
+      "url": "Rustic_Wardrobe"
+    },
+    {
+      "name": "Mini Storage Box",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/9/91/Mini_Storage_Box.png",
+      "size": "Medium",
+      "rep_reward": 4,
+      "type": "Furniture & decorations",
+      "url": "Mini_Storage_Box"
+    },
+    {
+      "name": "Techno Table",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/a/a9/Techno_Table.png",
+      "size": "Medium",
+      "rep_reward": 12,
+      "type": "Furniture & decorations",
+      "url": "Techno_Table"
+    },
+    {
+      "name": "Leisurely Rattan Chair",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/8/88/Leisurely_Rattan_Chair.png",
+      "size": "Medium",
+      "rep_reward": 16,
+      "type": "Furniture & decorations",
+      "url": "Leisurely_Rattan_Chair"
+    },
+    {
+      "name": "Yakboy Display Board",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/8/87/Yakboy_Display_Board.png",
+      "size": "Medium",
+      "rep_reward": 20,
+      "type": "Furniture & decorations",
+      "url": "Yakboy_Display_Board"
+    },
+    {
+      "name": "Yakboy Target",
+      "image": "",
+      "size": "Medium",
+      "rep_reward": 12,
+      "type": "Furniture & decorations",
+      "url": "Yakboy_Target"
+    },
+    {
+      "name": "Yakboy Horn Decoration",
+      "image": "",
+      "size": "Medium",
+      "rep_reward": 12,
+      "type": "Furniture & decorations",
+      "url": "Yakboy_Horn_Decoration"
+    },
+    {
+      "name": "Leisurely Rattan Tea Table",
+      "image": "",
+      "size": "Medium",
+      "rep_reward": 16,
+      "type": "Furniture & decorations",
+      "url": "Leisurely_Rattan_Tea_Table"
+    },
+    {
+      "name": "Cable-stayed Bridge",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/4/49/Cable-stayed_Bridge.png",
+      "size": "Medium",
+      "rep_reward": 20,
+      "type": "Furniture & decorations",
+      "url": "Cable-stayed_Bridge"
+    },
+    {
+      "name": "Conch Shell Goddess Statue",
+      "image": "",
+      "size": "Large",
+      "rep_reward": 25,
+      "type": "Furniture & decorations",
+      "url": "Conch_Shell_Goddess_Statue"
+    },
+    {
+      "name": "Meowses II Statue",
+      "image": "",
+      "size": "Medium",
+      "rep_reward": 25,
+      "type": "Furniture & decorations",
+      "url": "Meowses_II_Statue"
+    },
+    {
+      "name": "Flag Waving Astronaut Model",
+      "image": "",
+      "size": "Medium",
+      "rep_reward": 20,
+      "type": "Furniture & decorations",
+      "url": "Flag_Waving_Astronaut_Model"
+    },
+    {
+      "name": "Guitarist Astronaut Model",
+      "image": "",
+      "size": "Medium",
+      "rep_reward": 15,
+      "type": "Furniture & decorations",
+      "url": "Guitarist_Astronaut_Model"
+    },
+    {
+      "name": "Ozdak Dancing Statue",
+      "image": "",
+      "size": "Medium",
+      "rep_reward": 15,
+      "type": "Furniture & decorations",
+      "url": "Ozdak_Dancing_Statue"
+    },
+    {
+      "name": "Ozdak Rooster Pose Statue",
+      "image": "",
+      "size": "Medium",
+      "rep_reward": 15,
+      "type": "Furniture & decorations",
+      "url": "Ozdak_Rooster_Pose_Statue"
+    },
+    {
+      "name": "Floating Galaxy",
+      "image": "",
+      "size": "Small",
+      "rep_reward": 15,
+      "type": "Furniture & decorations",
+      "url": "Floating_Galaxy"
+    },
+    {
+      "name": "Armor Display",
+      "image": "",
+      "size": "Medium",
+      "rep_reward": 25,
+      "type": "Furniture & decorations",
+      "url": "Armor_Display"
+    },
+    {
+      "name": "Beast Head Jade Chalice",
+      "image": "",
+      "size": "Small",
+      "rep_reward": 10,
+      "type": "Furniture & decorations",
+      "url": "Beast_Head_Jade_Chalice"
+    },
+    {
+      "name": "Dancing Lion Doll",
+      "image": "",
+      "size": "Small",
+      "rep_reward": 15,
+      "type": "Furniture & decorations",
+      "url": "Dancing_Lion_Doll"
+    },
+    {
+      "name": "Fish Fossil",
+      "image": "",
+      "size": "Medium",
+      "rep_reward": 10,
+      "type": "Furniture & decorations",
+      "url": "Fish_Fossil"
+    },
+    {
+      "name": "Golden Bull Head",
+      "image": "",
+      "size": "Medium",
+      "rep_reward": 15,
+      "type": "Furniture & decorations",
+      "url": "Golden_Bull_Head"
+    },
+    {
+      "name": "Cowboy Scarecrow",
+      "image": "",
+      "size": "Medium",
+      "rep_reward": 12,
+      "type": "Furniture & decorations",
+      "url": "Cowboy_Scarecrow"
+    },
+    {
+      "name": "Wooden Bookcase",
+      "image": "",
+      "size": "Medium",
+      "rep_reward": 12,
+      "type": "Furniture & decorations",
+      "url": "Wooden_Bookcase"
+    },
+    {
+      "name": "Rustic Sofa",
+      "image": "",
+      "size": "Medium",
+      "rep_reward": 16,
+      "type": "Furniture & decorations",
+      "url": "Rustic_Sofa"
+    },
+    {
+      "name": "Cowprint Sofa",
+      "image": "",
+      "size": "Medium",
+      "rep_reward": 12,
+      "type": "Furniture & decorations",
+      "url": "Cowprint_Sofa"
+    },
+    {
+      "name": "Rustic Lounging Chair",
+      "image": "",
+      "size": "Medium",
+      "rep_reward": 16,
+      "type": "Furniture & decorations",
+      "url": "Rustic_Lounging_Chair"
+    },
+    {
+      "name": "Rustic Dining Table",
+      "image": "",
+      "size": "Medium",
+      "rep_reward": 12,
+      "type": "Furniture & decorations",
+      "url": "Rustic_Dining_Table"
+    },
+    {
+      "name": "Rustic Armchair",
+      "image": "",
+      "size": "Medium",
+      "rep_reward": 20,
+      "type": "Furniture & decorations",
+      "url": "Rustic_Armchair"
+    },
+    {
+      "name": "Working Desk",
+      "image": "",
+      "size": "Medium",
+      "rep_reward": 16,
+      "type": "Furniture & decorations",
+      "url": "Working_Desk"
+    },
+    {
+      "name": "Ceramic Bottle",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/3/37/Ceramic_Bottle.png",
+      "size": "Medium",
+      "rep_reward": 4,
+      "type": "Furniture & decorations",
+      "url": "Ceramic_Bottle"
+    },
+    {
+      "name": "Cross Anchor",
+      "image": "",
+      "size": "Medium",
+      "rep_reward": 15,
+      "type": "Furniture & decorations",
+      "url": "Cross_Anchor"
+    },
+    {
+      "name": "DNA Model",
+      "image": "",
+      "size": "Medium",
+      "rep_reward": 15,
+      "type": "Furniture & decorations",
+      "url": "DNA_Model"
+    },
+    {
+      "name": "Retro Fan",
+      "image": "",
+      "size": "Medium",
+      "rep_reward": 16,
+      "type": "Furniture & decorations",
+      "url": "Retro_Fan"
+    },
+    {
+      "name": "Coral Horn",
+      "image": "",
+      "size": "Medium",
+      "rep_reward": 20,
+      "type": "Furniture & decorations",
+      "url": "Coral_Horn"
+    },
+    {
+      "name": "Inflated Astronaut Model",
+      "image": "",
+      "size": "Medium",
+      "rep_reward": 20,
+      "type": "Furniture & decorations",
+      "url": "Inflated_Astronaut_Model"
+    },
+    {
+      "name": "Ozdak Step Dancing Statue",
+      "image": "",
+      "size": "Medium",
+      "rep_reward": 15,
+      "type": "Furniture & decorations",
+      "url": "Ozdak_Step_Dancing_Statue"
+    },
+    {
+      "name": "Toy Spear Soldier",
+      "image": "",
+      "size": "Medium",
+      "rep_reward": 25,
+      "type": "Furniture & decorations",
+      "url": "Toy_Spear_Soldier"
+    },
+    {
+      "name": "Single Bed",
+      "image": "",
+      "size": "Medium",
+      "rep_reward": 12,
+      "type": "Furniture & decorations",
+      "url": "Single_Bed"
+    },
+    {
+      "name": "Plum Vase",
+      "image": "",
+      "size": "Small",
+      "rep_reward": 10,
+      "type": "Furniture & decorations",
+      "url": "Plum_Vase"
+    },
+    {
+      "name": "Old Sofa",
+      "image": "",
+      "size": "Medium",
+      "rep_reward": 12,
+      "type": "Furniture & decorations",
+      "url": "Old_Sofa"
+    },
+    {
+      "name": "Simple Bookcase",
+      "image": "",
+      "size": "Medium",
+      "rep_reward": 12,
+      "type": "Furniture & decorations",
+      "url": "Simple_Bookcase"
+    },
+    {
+      "name": "Madame Scarecrow",
+      "image": "",
+      "size": "Medium",
+      "rep_reward": 12,
+      "type": "Furniture & decorations",
+      "url": "Madame_Scarecrow"
+    },
+    {
+      "name": "Rustic Cabinet",
+      "image": "",
+      "size": "Medium",
+      "rep_reward": 16,
+      "type": "Furniture & decorations",
+      "url": "Rustic_Cabinet"
+    },
+    {
+      "name": "Sailor's Horn",
+      "image": "",
+      "size": "Medium",
+      "rep_reward": 15,
+      "type": "Furniture & decorations",
+      "url": "Sailor's_Horn"
+    },
+    {
+      "name": "Windmill Weather Vane",
+      "image": "",
+      "size": "Medium",
+      "rep_reward": 15,
+      "type": "Furniture & decorations",
+      "url": "Windmill_Weather_Vane"
+    },
+    {
+      "name": "Equatorial Mount",
+      "image": "",
+      "size": "Large",
+      "rep_reward": 12,
+      "type": "Furniture & decorations",
+      "url": "Equatorial_Mount"
+    },
+    {
+      "name": "Sand Eagle Statue",
+      "image": "",
+      "size": "Medium",
+      "rep_reward": 25,
+      "type": "Furniture & decorations",
+      "url": "Sand_Eagle_Statue"
+    },
+    {
+      "name": "Toy Scepter Soldier",
+      "image": "",
+      "size": "Medium",
+      "rep_reward": 25,
+      "type": "Furniture & decorations",
+      "url": "Toy_Scepter_Soldier"
+    },
+    {
+      "name": "Simple Cabinet",
+      "image": "",
+      "size": "Medium",
+      "rep_reward": 12,
+      "type": "Furniture & decorations",
+      "url": "Simple_Cabinet"
+    },
+    {
+      "name": "Tin Frog",
+      "image": "",
+      "size": "Small",
+      "rep_reward": 10,
+      "type": "Furniture & decorations",
+      "url": "Tin_Frog"
+    },
+    {
+      "name": "Bamboo Vase",
+      "image": "",
+      "size": "Small",
+      "rep_reward": 10,
+      "type": "Furniture & decorations",
+      "url": "Bamboo_Vase"
+    },
+    {
+      "name": "Train Model",
+      "image": "",
+      "size": "Large",
+      "rep_reward": 25,
+      "type": "Furniture & decorations",
+      "url": "Train_Model"
+    },
+    {
+      "name": "Hotpot Lamp",
+      "image": "",
+      "size": "Medium",
+      "rep_reward": 15,
+      "type": "Furniture & decorations",
+      "url": "Hotpot_Lamp"
+    },
+    {
+      "name": "Ferris Wheel",
+      "image": "",
+      "size": "Medium",
+      "rep_reward": 15,
+      "type": "Furniture & decorations",
+      "url": "Ferris_Wheel"
+    },
+    {
+      "name": "Passya Game Kid",
+      "image": "",
+      "size": "Small",
+      "rep_reward": 10,
+      "type": "Furniture & decorations",
+      "url": "Passya_Game_Kid"
+    },
+    {
+      "name": "Golfing Astronaut Model",
+      "image": "",
+      "size": "Medium",
+      "rep_reward": 15,
+      "type": "Furniture & decorations",
+      "url": "Golfing_Astronaut_Model"
+    },
+    {
+      "name": "Terracotta Soldier",
+      "image": "",
+      "size": "Medium",
+      "rep_reward": 10,
+      "type": "Furniture & decorations",
+      "url": "Terracotta_Soldier"
+    },
+    {
+      "name": "Giant Wild Goose Pagoda",
+      "image": "",
+      "size": "Medium",
+      "rep_reward": 20,
+      "type": "Furniture & decorations",
+      "url": "Giant_Wild_Goose_Pagoda"
+    },
+    {
+      "name": "Chrysanthemum Vase",
+      "image": "",
+      "size": "Small",
+      "rep_reward": 10,
+      "type": "Furniture & decorations",
+      "url": "Chrysanthemum_Vase"
+    },
+    {
+      "name": "Orchid Vase",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/4/44/Orchid_Vase.png",
+      "size": "Small",
+      "rep_reward": 10,
+      "type": "Furniture & decorations",
+      "url": "Orchid_Vase"
+    },
+    {
+      "name": "Stone Painting",
+      "image": "",
+      "size": "Medium",
+      "rep_reward": 15,
+      "type": "Furniture & decorations",
+      "url": "Stone_Painting"
+    },
+    {
+      "name": "Golden Candlestick",
+      "image": "",
+      "size": "Medium",
+      "rep_reward": 10,
+      "type": "Furniture & decorations",
+      "url": "Golden_Candlestick"
+    },
+    {
+      "name": "Satellite Model",
+      "image": "",
+      "size": "Medium",
+      "rep_reward": 15,
+      "type": "Furniture & decorations",
+      "url": "Satellite_Model"
+    },
+    {
+      "name": "Jeweled Egg",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/b/b8/Jeweled_Egg.png",
+      "size": "Small",
+      "rep_reward": 15,
+      "type": "Furniture & decorations",
+      "url": "Jeweled_Egg"
+    },
+    {
+      "name": "Art Museum Model",
+      "image": "",
+      "size": "Medium",
+      "rep_reward": 15,
+      "type": "Furniture & decorations",
+      "url": "Art_Museum_Model"
+    },
+    {
+      "name": "Great Wall",
+      "image": "",
+      "size": "Large",
+      "rep_reward": 25,
+      "type": "Furniture & decorations",
+      "url": "Great_Wall"
+    },
+    {
+      "name": "Toy Sword Soldier",
+      "image": "",
+      "size": "Medium",
+      "rep_reward": 25,
+      "type": "Furniture & decorations",
+      "url": "Toy_Sword_Soldier"
+    },
+    {
+      "name": "Toy Axe Soldier",
+      "image": "",
+      "size": "Medium",
+      "rep_reward": 25,
+      "type": "Furniture & decorations",
+      "url": "Toy_Axe_Soldier"
+    },
+    {
+      "name": "Monument",
+      "image": "",
+      "size": "Large",
+      "rep_reward": 20,
+      "type": "Furniture & decorations",
+      "url": "Monument"
+    },
+    {
+      "name": "Chef's Cooking Station",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/e/e4/Chef%27s_Cooking_Station.png",
+      "size": "Medium",
+      "rep_reward": 28,
+      "type": "Crafting station",
+      "url": "Chef's_Cooking_Station"
+    },
+    {
+      "name": "Intermediate Worktable",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/d/d9/Intermediate_Worktable.png",
+      "size": "Large",
+      "rep_reward": 24,
+      "type": "Crafting station",
+      "url": "Intermediate_Worktable"
+    },
+    {
+      "name": "Grinder",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/2/21/Grinder.png",
+      "size": "Medium",
+      "rep_reward": 16,
+      "type": "Crafting station",
+      "url": "Grinder"
+    },
+    {
+      "name": "Industrial Grinding Table",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/c/c8/Industrial_Grinding_Table.png",
+      "size": "Medium",
+      "rep_reward": 28,
+      "type": "Crafting station",
+      "url": "Industrial_Grinding_Table"
+    },
+    {
+      "name": "Train Station Signboard",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/8/8c/Train_Station_Signboard.png",
+      "size": "Large",
+      "rep_reward": 24,
+      "type": "Assembled item",
+      "url": "Train_Station_Signboard"
+    },
+    {
+      "name": "Game Center Sign",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/4/4c/Game_Center_Sign.png",
+      "size": "Large",
+      "rep_reward": 24,
+      "type": "Assembled item",
+      "url": "Game_Center_Sign"
+    },
+    {
+      "name": "Tower Frame",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/a/a9/Tower_Frame.png",
+      "size": "Large",
+      "rep_reward": 30,
+      "type": "Assembled item",
+      "url": "Tower_Frame"
+    },
+    {
+      "name": "Basic Awning",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/3/33/Basic_Awning.png",
+      "size": "Large",
+      "rep_reward": 12,
+      "type": "Furniture & decorations",
+      "url": "Basic_Awning"
+    },
+    {
+      "name": "Suspended Tram Cart",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/b/b1/Suspended_Tram_Cart.png",
+      "size": "Large",
+      "rep_reward": 24,
+      "type": "Assembled item",
+      "url": "Suspended_Tram_Cart"
+    },
+    {
+      "name": "Hydrogel Door",
+      "image": "",
+      "size": "Large",
+      "rep_reward": 20,
+      "type": "Crafting stations & assembled items",
+      "url": "Hydrogel_Door"
+    },
+    {
+      "name": "Advanced Cooking Station",
+      "image": "",
+      "size": "Medium",
+      "rep_reward": 28,
+      "type": "Crafting stations & assembled items",
+      "url": "Advanced_Cooking_Station"
+    },
+    {
+      "name": "Crane Lift",
+      "image": "",
+      "size": "Large",
+      "rep_reward": 20,
+      "type": "Crafting stations & assembled items",
+      "url": "Crane_Lift"
+    },
+    {
+      "name": "Stage Support",
+      "image": "",
+      "size": "Large",
+      "rep_reward": 20,
+      "type": "Crafting stations & assembled items",
+      "url": "Stage_Support"
+    },
+    {
+      "name": "Truss",
+      "image": "",
+      "size": "Large",
+      "rep_reward": 24,
+      "type": "Crafting stations & assembled items",
+      "url": "Truss"
+    },
+    {
+      "name": "Sandrunning Signboard",
+      "image": "",
+      "size": "Large",
+      "rep_reward": 20,
+      "type": "Crafting stations & assembled items",
+      "url": "Sandrunning_Signboard"
+    },
+    {
+      "name": "Stage Backdrop",
+      "image": "",
+      "size": "Large",
+      "rep_reward": 20,
+      "type": "Crafting stations & assembled items",
+      "url": "Stage_Backdrop"
+    },
+    {
+      "name": "Magneto Inductive Inspector",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/3/32/Magneto_Inductive_Inspector.png",
+      "size": "Medium",
+      "rep_reward": 20,
+      "type": "Assembled items",
+      "url": "Magneto_Inductive_Inspector"
+    },
+    {
+      "name": "Intermediate Tailoring Machine",
+      "image": "",
+      "size": "Medium",
+      "rep_reward": 24,
+      "type": "Crafting stations & assembled items",
+      "url": "Intermediate_Tailoring_Machine"
+    },
+    {
+      "name": "Water Tank",
+      "image": "",
+      "size": "Large",
+      "rep_reward": 28,
+      "type": "Crafting stations & assembled items",
+      "url": "Water_Tank"
+    },
+    {
+      "name": "Rooftop Display",
+      "image": "",
+      "size": "Large",
+      "rep_reward": 28,
+      "type": "Crafting stations & assembled items",
+      "url": "Rooftop_Display"
+    },
+    {
+      "name": "Air Purifier",
+      "image": "",
+      "size": "Medium",
+      "rep_reward": 28,
+      "type": "Crafting stations & assembled items",
+      "url": "Air_Purifier"
+    },
+    {
+      "name": "Civil Processor",
+      "image": "",
+      "size": "Medium",
+      "rep_reward": 20,
+      "type": "Crafting stations & assembled items",
+      "url": "Civil_Processor"
+    },
+    {
+      "name": "Sunshade",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/f/fe/Sunshade.png",
+      "size": "Large",
+      "rep_reward": 12,
+      "type": "Furniture & decorations",
+      "url": "Sunshade"
+    },
+    {
+      "name": "Civil Furnace",
+      "image": "",
+      "size": "Large",
+      "rep_reward": 20,
+      "type": "Crafting stations & assembled items",
+      "url": "Civil_Furnace"
+    },
+    {
+      "name": "Blender lv1",
+      "image": "",
+      "size": "Medium",
+      "rep_reward": 20,
+      "type": "Crafting stations & assembled items",
+      "url": "Blender_lv1"
+    },
+    {
+      "name": "Tailoring Machine lv1",
+      "image": "",
+      "size": "Medium",
+      "rep_reward": 20,
+      "type": "Crafting stations & assembled items",
+      "url": "Tailoring_Machine_lv1"
+    },
+    {
+      "name": "Dew Collector",
+      "image": "",
+      "size": "Medium",
+      "rep_reward": 12,
+      "type": "Crafting stations & assembled items",
+      "url": "Dew_Collector"
+    },
+    {
+      "name": "Apprentice Cooking Station",
+      "image": "",
+      "size": "Medium",
+      "rep_reward": 20,
+      "type": "Crafting stations & assembled items",
+      "url": "Apprentice_Cooking_Station"
+    },
+    {
+      "name": "Industrial Recycler",
+      "image": "",
+      "size": "Large",
+      "rep_reward": 24,
+      "type": "Crafting stations & assembled items",
+      "url": "Industrial_Recycler"
+    },
+    {
+      "name": "Fire Powered Generator",
+      "image": "",
+      "size": "Large",
+      "rep_reward": 24,
+      "type": "Crafting stations & assembled items",
+      "url": "Fire_Powered_Generator"
+    },
+    {
+      "name": "Civil Grinder",
+      "image": "",
+      "size": "Medium",
+      "rep_reward": 20,
+      "type": "Crafting stations & assembled items",
+      "url": "Civil_Grinder"
+    },
+    {
+      "name": "Recycler",
+      "image": "",
+      "size": "Medium",
+      "rep_reward": 8,
+      "type": "Crafting stations & assembled items",
+      "url": "Recycler"
+    },
+    {
+      "name": "Train Station Star Sign",
+      "image": "",
+      "size": "Large",
+      "rep_reward": 20,
+      "type": "Crafting stations & assembled items",
+      "url": "Train_Station_Star_Sign"
+    },
+    {
+      "name": "Concentrated Algae Apparatus",
+      "image": "",
+      "size": "Large",
+      "rep_reward": 28,
+      "type": "Crafting stations & assembled items",
+      "url": "Concentrated_Algae_Apparatus"
+    },
+    {
+      "name": "Steel Panels",
+      "image": "",
+      "size": "Large",
+      "rep_reward": 24,
+      "type": "Crafting stations & assembled items",
+      "url": "Steel_Panels"
+    },
+    {
+      "name": "Steel Braces",
+      "image": "",
+      "size": "Large",
+      "rep_reward": 20,
+      "type": "Crafting stations & assembled items",
+      "url": "Steel_Braces"
+    },
+    {
+      "name": "Yakmel Station",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/6/61/Yakmel_Station.png",
+      "size": "Large",
+      "rep_reward": 20,
+      "type": "Assembled item",
+      "url": "Yakmel_Station"
+    },
+    {
+      "name": "Water Filter",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/4/48/Water_Filter.png",
+      "size": "Large",
+      "rep_reward": 28,
+      "type": "Assembled items",
+      "url": "Water_Filter"
+    },
+    {
+      "name": "Electric Kiln",
+      "image": "",
+      "size": "Large",
+      "rep_reward": 20,
+      "type": "Crafting stations & assembled items",
+      "url": "Electric_Kiln"
+    },
+    {
+      "name": "Sandrunning Kiosk",
+      "image": "",
+      "size": "Medium",
+      "rep_reward": 20,
+      "type": "Crafting stations & assembled items",
+      "url": "Sandrunning_Kiosk"
+    },
+    {
+      "name": "Hydrogel Core",
+      "image": "",
+      "size": "Large",
+      "rep_reward": 24,
+      "type": "Crafting stations & assembled items",
+      "url": "Hydrogel_Core"
+    },
+    {
+      "name": "Punch-o-Tron",
+      "image": "",
+      "size": "Large",
+      "rep_reward": 24,
+      "type": "Crafting stations & assembled items",
+      "url": "Punch-o-Tron"
+    },
+    {
+      "name": "Sorting Machine",
+      "image": "",
+      "size": "Large",
+      "rep_reward": 20,
+      "type": "Crafting stations & assembled items",
+      "url": "Sorting_Machine"
+    },
+    {
+      "name": "Civil Recycler",
+      "image": "",
+      "size": "Medium",
+      "rep_reward": 20,
+      "type": "Crafting stations & assembled items",
+      "url": "Civil_Recycler"
+    },
+    {
+      "name": "Relic Restoration Machine",
+      "image": "",
+      "size": "Medium",
+      "rep_reward": 20,
+      "type": "Crafting stations & assembled items",
+      "url": "Relic_Restoration_Machine"
+    },
+    {
+      "name": "Processor",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/4/4e/Processor.png",
+      "size": "Medium",
+      "rep_reward": 16,
+      "type": "Crafting station",
+      "url": "Processor"
+    },
+    {
+      "name": "Refiner",
+      "image": "",
+      "size": "Large",
+      "rep_reward": 20,
+      "type": "Crafting stations & assembled items",
+      "url": "Refiner"
+    },
+    {
+      "name": "Forging Machine lv1",
+      "image": "",
+      "size": "Medium",
+      "rep_reward": 20,
+      "type": "Crafting stations & assembled items",
+      "url": "Forging_Machine_lv1"
+    },
+    {
+      "name": "Primary Jewelry Processing Machine",
+      "image": "",
+      "size": "Medium",
+      "rep_reward": 20,
+      "type": "Crafting stations & assembled items",
+      "url": "Primary_Jewelry_Processing_Machine"
+    },
+    {
+      "name": "Jacuzzi",
+      "image": "",
+      "size": "Medium",
+      "rep_reward": 24,
+      "type": "Crafting stations & assembled items",
+      "url": "Jacuzzi"
+    },
+    {
+      "name": "Industrial Furnace",
+      "image": "",
+      "size": "Large",
+      "rep_reward": 28,
+      "type": "Crafting stations & assembled items",
+      "url": "Industrial_Furnace"
+    },
+    {
+      "name": "Drying Rack",
+      "image": "",
+      "size": "Medium",
+      "rep_reward": 12,
+      "type": "Crafting stations & assembled items",
+      "url": "Drying_Rack"
+    },
+    {
+      "name": "Worktable",
+      "image": "",
+      "size": "Medium",
+      "rep_reward": 8,
+      "type": "Crafting stations & assembled items",
+      "url": "Worktable"
+    },
+    {
+      "name": "Industrial Machine Tools",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/7/73/Industrial_Machine_Tools.png",
+      "size": "Medium",
+      "rep_reward": 28,
+      "type": "Crafting station",
+      "url": "Industrial_Machine_Tools"
+    },
+    {
+      "name": "Furnace",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/0/0f/Furnace.png",
+      "size": "Medium",
+      "rep_reward": 8,
+      "type": "Crafting station",
+      "url": "Furnace"
+    },
+    {
+      "name": "Intermediate Forging Machine",
+      "image": "",
+      "size": "Medium",
+      "rep_reward": 28,
+      "type": "Crafting stations & assembled items",
+      "url": "Intermediate_Forging_Machine"
+    },
+    {
+      "name": "Intermediate Jewelry Processing Machine",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/b/bc/Intermediate_Jewelry_Processing_Machine.png",
+      "size": "Medium",
+      "rep_reward": 24,
+      "type": "Crafting station",
+      "url": "Intermediate_Jewelry_Processing_Machine"
+    },
+    {
+      "name": "Ore Refinery",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/7/76/Ore_Refinery.png",
+      "size": "Large",
+      "rep_reward": 16,
+      "type": "Crafting station",
+      "url": "Ore_Refinery"
+    },
+    {
+      "name": "Super Dew Collector",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/9/93/Super_Dew_Collector.png",
+      "size": "Medium",
+      "rep_reward": 24,
+      "type": "Crafting station",
+      "url": "Super_Dew_Collector"
+    },
+    {
+      "name": "Advanced Worktable",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/7/7a/Advanced_Worktable.png",
+      "size": "Large",
+      "rep_reward": 28,
+      "type": "Crafting station",
+      "url": "Advanced_Worktable"
+    },
+    {
+      "name": "Camera",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/8/80/Camera.png",
+      "size": "Small",
+      "rep_reward": 15,
+      "type": "Relics",
+      "url": "Camera"
+    },
+    {
+      "name": "Bronze Spear",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/d/d7/Bronze_Spear.png",
+      "size": "Medium",
+      "rep_reward": 16,
+      "type": "Weapon",
+      "url": "Bronze_Spear"
+    },
+    {
+      "name": "Bronze Pickhammer",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/5/52/Bronze_Pickhammer.png",
+      "size": "Medium",
+      "rep_reward": 20,
+      "type": "Tool",
+      "url": "Bronze_Pickhammer"
+    },
+    {
+      "name": "Vintage Pistol",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/9/9d/Vintage_Pistol.png",
+      "size": "Small",
+      "rep_reward": 16,
+      "type": "Weapon",
+      "url": "Vintage_Pistol"
+    },
+    {
+      "name": "Alloy Daggers",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/4/4d/Alloy_Daggers.png",
+      "size": "Small",
+      "rep_reward": 24,
+      "type": "Weapon",
+      "url": "Alloy_Daggers"
+    },
+    {
+      "name": "Chromium Heavy Sword",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/1/1e/Chromium_Heavy_Sword.png",
+      "size": "Medium",
+      "rep_reward": 24,
+      "type": "Weapon",
+      "url": "Chromium_Heavy_Sword"
+    },
+    {
+      "name": "Steel Spear",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/6/6a/Steel_Spear.png",
+      "size": "Medium",
+      "rep_reward": 20,
+      "type": "Weapon",
+      "url": "Steel_Spear"
+    },
+    {
+      "name": "Alloy Heavy Sword",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/5/5c/Alloy_Heavy_Sword.png",
+      "size": "Medium",
+      "rep_reward": 24,
+      "type": "Weapon",
+      "url": "Alloy_Heavy_Sword"
+    },
+    {
+      "name": "Super Shock Shield",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/c/c1/Super_Shock_Shield.png",
+      "size": "Medium",
+      "rep_reward": 24,
+      "type": "Weapon",
+      "url": "Super_Shock_Shield"
+    },
+    {
+      "name": "Steel Greatsword",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/d/d6/Steel_Greatsword.png",
+      "size": "Medium",
+      "rep_reward": 20,
+      "type": "Weapon",
+      "url": "Steel_Greatsword"
+    },
+    {
+      "name": "Stone Sword and Shield",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/d/d5/Stone_Sword_and_Shield.png",
+      "size": "Medium",
+      "rep_reward": 8,
+      "type": "Weapon",
+      "url": "Stone_Sword_and_Shield"
+    },
+    {
+      "name": "Chromium Pickhammer",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/3/3f/Chromium_Pickhammer.png",
+      "size": "Medium",
+      "rep_reward": 24,
+      "type": "Tool",
+      "url": "Chromium_Pickhammer"
+    },
+    {
+      "name": "Stone Axe",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/2/2f/Stone_Axe.png",
+      "size": "Medium",
+      "rep_reward": 4,
+      "type": "Tool",
+      "url": "Stone_Axe"
+    },
+    {
+      "name": "Stone Sword",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/f/f2/Stone_Sword.png",
+      "size": "Medium",
+      "rep_reward": 8,
+      "type": "Weapon",
+      "url": "Stone_Sword"
+    },
+    {
+      "name": "Iron Dagger",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/3/3a/Iron_Dagger.png",
+      "size": "Medium",
+      "rep_reward": 20,
+      "type": "Weapon",
+      "url": "Iron_Dagger"
+    },
+    {
+      "name": "Iron Greatsword",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/9/9b/Iron_Greatsword.png",
+      "size": "Medium",
+      "rep_reward": 20,
+      "type": "Weapon",
+      "url": "Iron_Greatsword"
+    },
+    {
+      "name": "Bronze Axe",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/b/ba/Bronze_Axe.png",
+      "size": "Medium",
+      "rep_reward": 20,
+      "type": "Tool",
+      "url": "Bronze_Axe"
+    },
+    {
+      "name": "Vintage assault rifle",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/e/eb/Vintage_assault_rifle.png",
+      "size": "Medium",
+      "rep_reward": 16,
+      "type": "Weapon",
+      "url": "Vintage_assault_rifle"
+    },
+    {
+      "name": "Iron Pickhammer",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/1/19/Iron_Pickhammer.png",
+      "size": "Medium",
+      "rep_reward": 24,
+      "type": "Tool",
+      "url": "Iron_Pickhammer"
+    },
+    {
+      "name": "Iron Sword And Shield",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/7/75/Iron_Sword_and_Shield.png",
+      "size": "Medium",
+      "rep_reward": 20,
+      "type": "Weapon",
+      "url": "Iron_Sword_And_Shield"
+    },
+    {
+      "name": "Steel Daggers",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/5/5a/Steel_Daggers.png",
+      "size": "Small",
+      "rep_reward": 20,
+      "type": "Weapon",
+      "url": "Steel_Daggers"
+    },
+    {
+      "name": "Motivational Hammer",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/7/7e/Motivational_Hammer.png",
+      "size": "Medium",
+      "rep_reward": 16,
+      "type": "Weapon",
+      "url": "Motivational_Hammer"
+    },
+    {
+      "name": "Bronze Greatsword",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/d/d9/Bronze_Greatsword.png",
+      "size": "Medium",
+      "rep_reward": 16,
+      "type": "Weapon",
+      "url": "Bronze_Greatsword"
+    },
+    {
+      "name": "Chromium Spear",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/8/81/Chromium_Spear.png",
+      "size": "Medium",
+      "rep_reward": 24,
+      "type": "Weapon",
+      "url": "Chromium_Spear"
+    },
+    {
+      "name": "Alloy Sword and Shield",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/5/56/Alloy_Sword_and_Shield.png",
+      "size": "Medium",
+      "rep_reward": 24,
+      "type": "Weapon",
+      "url": "Alloy_Sword_and_Shield"
+    },
+    {
+      "name": "Chromium Axe",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/6/6f/Chromium_Axe.png",
+      "size": "Medium",
+      "rep_reward": 24,
+      "type": "Tool",
+      "url": "Chromium_Axe"
+    },
+    {
+      "name": "Iron Axe",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/8/81/Iron_Axe.png",
+      "size": "Medium",
+      "rep_reward": 24,
+      "type": "Tool",
+      "url": "Iron_Axe"
+    },
+    {
+      "name": "Chromium Sword and Shield",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/c/cc/Chromium_Sword_and_Shield.png",
+      "size": "Medium",
+      "rep_reward": 24,
+      "type": "Weapon",
+      "url": "Chromium_Sword_and_Shield"
+    },
+    {
+      "name": "Iron Spear",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/c/c2/Iron_Spear.png",
+      "size": "Medium",
+      "rep_reward": 20,
+      "type": "Weapon",
+      "url": "Iron_Spear"
+    },
+    {
+      "name": "Stone Spear",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/5/50/Stone_Spear.png",
+      "size": "Medium",
+      "rep_reward": 8,
+      "type": "Weapon",
+      "url": "Stone_Spear"
+    },
+    {
+      "name": "Pickhammer",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/e/e4/Pickhammer.png",
+      "size": "Medium",
+      "rep_reward": 4,
+      "type": "Tool",
+      "url": "Pickhammer"
+    },
+    {
+      "name": "Bronze Daggers",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/a/aa/Bronze_Daggers.png",
+      "size": "Medium",
+      "rep_reward": 16,
+      "type": "Weapon",
+      "url": "Bronze_Daggers"
+    },
+    {
+      "name": "Alloy Spear",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/b/b3/Alloy_Spear.png",
+      "size": "Medium",
+      "rep_reward": 24,
+      "type": "Weapon",
+      "url": "Alloy_Spear"
+    },
+    {
+      "name": "Chromium Daggers",
+      "image": "https://static.wikia.nocookie.net/mytimeatsandrock/images/9/93/Chromium_Daggers.png",
+      "size": "Small",
+      "rep_reward": 24,
+      "type": "Weapon",
+      "url": "Chromium_Daggers"
+    }
+  ]
+}
